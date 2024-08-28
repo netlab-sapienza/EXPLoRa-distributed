@@ -1,0 +1,20 @@
+# pycharm files
+*.xml
+.idea/
+
+# backup files
+*~
+*.swp
+*.swo
+*.pyc
+
+
+# matlab files
+.DS_Store
+
+
+
+/venv
+/old-file
+/.idea
+/node_modules
