@@ -22,10 +22,12 @@ The `int repeatExecution` value represents how many times the EXPLoRa-C algorith
 
 The `int numberOfNodes` represents how many nodes are wrote inside the `String inputFile`. The application expects 200 basestations by default.
 
-Remember to change the `String inputFile` according to the path of the file in your machine.
+Change the `String inputFile` according to the path of the input file in your machine.
 
 [//]: <> (The files with the nodes are in the following folder: https://drive.google.com/drive/folders/1DWNEL_PGTmK4I_0fYYaFRyWp6kAJAiTf?usp=sharing)
 
 ## How to run it
 
 Execute the `main(...)` method after providing your node-file and setting your custom parameters inside.
+
+For more technical information please refer to [HOWTO.pdf](./HOWTO.pdf)
